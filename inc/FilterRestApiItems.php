@@ -19,6 +19,7 @@ class FilterRestApiItems {
 		new Items\Post();
 		new Items\Taxonomy();
 		new Items\Comments();
+		new Items\Media();
 	}
 
 } 
